@@ -9,7 +9,7 @@ descargamos el directorio con el script
 abrimos el cmd 
 
 vamos al directorio donde esta el script
-cd C:\Users\Carlos\Downloads\python
+cd C:\Users\Carlos\Downloads\calculadoraPython-main
 
-despues ejecutamos el programa
+despues ejecutamos el programa:
 python calculadora.py
